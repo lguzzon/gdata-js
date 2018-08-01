@@ -9,7 +9,7 @@
   ],
   "main": "gdata.js",
   "dependencies": {
-    "request": "2.82.0"
+    "request": "2.84.0"
   },
   "repository": {
     "type": "git",
